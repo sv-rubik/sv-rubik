@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Svetlana and my goal is to be able to use my skills in the way that others can benefit from them.
+
+💻 Technologies I'm into:
+CSS3 HTML5 JavaScript Express.js NodeJS Chart.js JWT React TypeScript Nginx MongoDB Figma Postman Joomla Wordpress SCSS 
 
 <!--
 **sv-rubik/sv-rubik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
